@@ -2,6 +2,10 @@
 
 Bootstrap stream provider for [iostreams](https://github.com/webcast-io/iostreams)
 
+[![Build Status](https://travis-ci.org/webcast-io/iostreams-bootstrap.png)](https://travis-ci.org/webcast-io/iostreams-bootstrap?branch=master)
+[![Coverage Status](https://coveralls.io/repos/webcast-io/iostreams-bootstrap/badge.png?branch=master)](https://coveralls.io/r/webcast-io/iostreams-bootstrap?branch=master)
+[![Dependency Status](https://david-dm.org/webcast-io/iostreams-bootstrap.png?theme=shields.io)](https://david-dm.org/webcast-io/iostreams-bootstrap)
+
 ## Install
 
     $ npm install iostreams iostreams-bootstrap
